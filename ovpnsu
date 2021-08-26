@@ -44,8 +44,7 @@ Menu() {
     echo "             [ 25 ] - Baixar Apps"
     echo "              [ 0 ] - Sair do Script"
    echo "         ================================"
-    echo "@luanw04"
-    echo "@alpacinoo007"
+     echo "EnoVinicius"
     echo 
     echo "ESCOLHA UMA OPÇÃO:"
     read App
